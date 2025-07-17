@@ -1,0 +1,15 @@
+# Google API credentials
+credentials.json
+token.json
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# IDE specific files
+.vscode/
+
+# Other temporary files
+*.log
+*.tmp
+*.bak
